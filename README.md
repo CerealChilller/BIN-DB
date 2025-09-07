@@ -1,2 +1,3 @@
 # BIN-DB
-BIN database for payscrow 
+BIN database 
+Пополняемый список BIN кодов РФ банков 
