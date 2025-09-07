@@ -1,3 +1,2 @@
 # BIN-DB
-BIN database 
-Пополняемый список BIN кодов РФ банков 
+BIN RU database | Пополняемый список BIN кодов РФ банков 
